@@ -1,17 +1,43 @@
 # product-steering template instructions
 
-This repository template is used to help members of a codebase to implement product management in the open.
-A template repository allows you to easily create a new product steering repository which includes the configuration, issue templates, and files to get started. After having created the repository you can alter it to better suit your needs. 
-
 ## Introduction
+This repository template is used to help members of a codebase to implement product management in the open.
+A template repository allows you to easily create a new target product steering repository which includes the configuration, issue templates, files and other resources to get started. After having created the repository you can alter it to better suit your needs. 
+
+Note: target refers to the repository you create based on this template repository
 
 ## How is it organized?
+The repository includes the following:
 
-## What is included?
+- `product-steering template instructions` - The instruction you are reading now explaining how to use this template. You can remove this section from your target README
+- `TEMPLATE README Product steering` - The README template for your target product-steering repository (see below) include suggestions for content
+- An issue template for feature requests
+- A template kanban project board with welcome instruction card
+- Issue labels
+- Resources to learn more about product management
 
-## Standard for Public Code
+## How to read?
+The template below uses the following readning conventions:
+
+When you read 'CODEBASE NAME' you can replace this with the codebase name
+
+When you see a link `[LINK](#insert-resource-here)` you can link to your own target repository assets such as CONTRUBTION.md, GOVERNANCE.md or other relevant documentation used in your codebase.
+
+>**TEMPLATE INSTRUCTION**: Contains useful background information on how to use this section in the template. You can remove this sections from your target README
+
+## How to use this template
+
+When you have codebase where a community wants to organize product management in the open you can use this template to quickly create a repository to accomodate this.Once the repository has created you can tweak the newly created repository to fit your needs.
+
+1. Make sure you have sufficient acces rights to the target repository where you want to create a new product-steering repository
+2. Go the target organization of the codebase and click "create new repository"
+3. When creating a repository you can select "based on template"
+4. Go to your newly created target product-steering repository and alter the `TEMPLATE README Product steering`. And remove any template specific documentation and instructions  including this '`product-steering template instructions`
 
 
+>NOTE: Everything below this line is the template README you can use for your target repository.
+
+---
 
 # TEMPLATE README Product steering 
 This repository is used by the `CODEBASE NAME` community product steering group to:
@@ -21,14 +47,23 @@ This repository is used by the `CODEBASE NAME` community product steering group 
 * A Wiki collect and store product management related knowledge needed to perform our work.
 * `Add activities relevant to your community product steering group` 
 
-Please make sure you read :
-* Contribution guidelins
-* Codebase governance
+## Open to contributions
+We are open to contributions to `CODEBASE NAME`. If you want to contribute to this project please refer to the following documents:
 
+* [Contribution guidelines](#insert-link-to-CONTRIBUTION.md)
+* [Codebase governance](#insert-link-to-GOVERNANCE.md)
+* [Standard for Public Code](https://standard.publiccode.net)
 
-## Codebase product vision
+!!!note test
+
+https://standard.publiccode.net/criteria/open-to-contributions.html
+
+## Codebase product vision and mission
+Use this section to link to or describe the purpose and objective of the codebase. What is it, why has it been created? 
+More information on how do to this and why it is important please refere to the the [Standard for Public Code](https://standard.publiccode.net), criterion ["Document your objectives"](https://standard.publiccode.net/criteria/document-objectives.html)
 
 ## Codebase product roadmap
+Use this section to link to or describe the product roadmap. A ro
 
 ## Codebase product management process
 
