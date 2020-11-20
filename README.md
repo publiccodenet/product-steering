@@ -35,7 +35,7 @@ When you have codebase where a community wants to organize product management in
 4. Go to your newly created target product-steering repository and alter the `TEMPLATE README Product steering`. And remove any template specific documentation and instructions  including this '`product-steering template instructions`
 
 
->NOTE: Everything below this line is the template README you can use for your target repository.
+>NOTE: Everything below this line is the template README you can use for your target repository.Everything **above** this line can be safely deleted in your target repository
 
 ---
 
