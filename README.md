@@ -34,7 +34,7 @@ When you have codebase where a community wants to organize product management in
 3. Select the correct "Owner" in the left dropdown, normally this would be the organization name of the target codebase where you want to create a new repository
 4. Select a "Repository name". Make sure the name reflects
 4. Go to your newly created target product-steering repository and alter the `TEMPLATE README Product steering`. And remove any template specific documentation and instructions  including this '`product-steering template instructions`
-5. To re-use the kanban project board you need to manually recreate the Kaban board located at: [https://github.com/publiccodenet/product-steering/projects/1](https://github.com/publiccodenet/product-steering/projects/1) in the target repository as Github does not yet support public project templates.
+5. To re-use the kanban project board you need to manually recreate the Kaban board located at: [https://github.com/publiccodenet/product-steering/projects/1](https://github.com/publiccodenet/product-steering/projects/1) in the target repository as Github does not yet support public project templates.  **NOTE:** It is recommended to put your target project board on the organization level so you can also track issues across repositories under that organization.
 
 For more inspiration and learning resource on the topic of Open Product Management we encourage you to check out the [https://github.com/ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) repository.
 
