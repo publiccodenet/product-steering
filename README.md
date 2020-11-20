@@ -72,6 +72,8 @@ We are open to contributions to `CODEBASE NAME`. If you want to contribute to th
 >[Product Backlog](#insert link to location of product backlog)
 
 ## Create and submit a new feature request
+>**TEMPLATE INSTRUCTION**: Use this section to link to or describe how people can add feature request issues to this repository. 
+
 If you have a new idea for `CODEBASE NAME` or need a specific feature we love you to create a feature request.
 You can do this as follows:
 
