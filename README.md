@@ -54,29 +54,28 @@ We are open to contributions to `CODEBASE NAME`. If you want to contribute to th
 * [Codebase governance](#insert-link-to-GOVERNANCE.md)
 * [Standard for Public Code](https://standard.publiccode.net)
 
-!!!note test
-
-https://standard.publiccode.net/criteria/open-to-contributions.html
+>**TEMPLATE INSTRUCTION**: It is important to welcome contributions and to include relevant documentation which makes it easier for people to contribute to your product. 
+> Please refer to the Standard for Public code, criterion [Open to cotributions](https://standard.publiccode.net/criteria/open-to-contributions.html)
 
 ## Codebase product vision and mission
-Use this section to link to or describe the purpose and objective of the codebase. What is it, why has it been created? 
-More information on how do to this and why it is important please refere to the the [Standard for Public Code](https://standard.publiccode.net), criterion ["Document your objectives"](https://standard.publiccode.net/criteria/document-objectives.html)
+>**TEMPLATE INSTRUCTION**: Use this section to link to or describe the purpose and objective of the codebase. What is it, why has it been created? 
+> More information on how do to this and why it is important please refere to the the [Standard for Public Code](https://standard.publiccode.net), criterion ["Document your objectives"](https://standard.publiccode.net/criteria/document-objectives.html)
 
 ## Codebase product roadmap
-Use this section to link to or describe the product roadmap. A ro
+>**TEMPLATE INSTRUCTION**: Use this section to link to or describe the product roadmap. 
 
 ## Codebase product management process
+>**TEMPLATE INSTRUCTION**: Use this section to link or describe how the product management process works.  
+
+## Product backlog
+>**TEMPLATE INSTRUCTION**: Use this section to link or describe where the product backlog of the CODEBASE resides.  
+>[Product Backlog](#insert link to location of product backlog)
 
 ## Create and submit a new feature request
-If you have a new idea for Signalen or need a specific feature we love you to create a feature request.
+If you have a new idea for `CODEBASE NAME` or need a specific feature we love you to create a feature request.
 You can do this as follows:
 
 1. Check all the feature requests to make sure you feature is not already listed. If you see a related issue we welcome you to comment on exisiting issues
-2. If there are no issues which cover your feature requst you can create an issue here: https://github.com/Signalen/product-steering/issues or go straigth to the form via: https://github.com/Signalen/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D)
+2. If there are no issues which cover your feature request you can create an issue [here](#insert-link-to-feature-request-issues) or go straigth to the form via: [LINK](#insert direct link to create github issue with feature request template)
 
-Every 2 weeks the product steering group will check incoming feature requests and may reach out to you for clarification or ask you to join the product steering group to discuss your feature request. And they will be prioritized and selected on our Product Backlog here: https://github.com/orgs/Signalen/projects/2
-
-
-## 
-The Signalen community is hard at work to provide the nessacary documentation to make it easy for everyone to contribute to the Signalen project.
-As of now we do not yet have our GOVERNANCE and CONTRUBUTE guidelines available.  
+Every X week(s) the product steering group will check incoming feature requests and may reach out to you for clarification or ask you to join the product steering group to discuss your feature request.Issues are prioritized and selected on our [Product Backlog](#insert link to location of product backlog)
